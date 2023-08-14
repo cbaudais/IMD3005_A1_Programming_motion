@@ -3,6 +3,51 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+#OPENFRAMEWORKS
+/bin/*
+!/bin/data/
+
+.svn/
+*.app/
+*.mode*
+[Dd]ebug*/
+[Oo]bj/
+*.o
+
+# XCode
+*.pbxuser
+*.perspective
+*.perspectivev3
+*.mode1v3
+*.mode2v3
+# XCode 4
+*.xccheckout
+xcuserdata/
+
+# Eclipse
+.metadata
+local.properties
+.externalToolBuilders
+
+# Android Studio
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+
+# OSX
+.DS_Store
+*.swp
+*~.nib
+# Thumbnails
+._*
+
+# Windows
+# Image file caches
+Thumbs.db
+# Folder config file
+Desktop.ini
+
 # User-specific files
 *.rsuser
 *.suo
