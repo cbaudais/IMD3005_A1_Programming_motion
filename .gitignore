@@ -6,6 +6,7 @@
 #OPENFRAMEWORKS
 /bin/*
 !/bin/data/
+openFrameworks-Info.plist
 
 .svn/
 *.app/
