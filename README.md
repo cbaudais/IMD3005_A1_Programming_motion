@@ -1,4 +1,7 @@
-﻿<code>Christina Baudais - 101087154
+﻿### Open Frameworks Project 
+-> Remember to download to your OF apps folder location
+
+<code>Christina Baudais
 <br>
 <br>
 Overview:
@@ -21,6 +24,9 @@ Once I got the theme idea of underwater it was easy to pick what were the orbiti
 <br>
 And the trail....I eventually got something close enough, and by making the numbers in leap really small, it had a trail like effect.  Cant figure where to offset diver more behind the submarine but this is good enough.
 </code>
-<br>
-<br>
+
+
+https://github.com/cbaudais/IMD3005_A1_Programming_motion/assets/97922886/c38d33ca-b78e-4d99-98b3-9e115e446b82
+
+
 ![screenshot](Screen_Shot_2021-09-27_at_23.11.16.png)
