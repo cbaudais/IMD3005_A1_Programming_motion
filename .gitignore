@@ -13,6 +13,11 @@
 [Dd]ebug*/
 [Oo]bj/
 *.o
+openFrameworks-Info.plist
+
+# Makefiles
+Makefile
+config.make
 
 # XCode
 *.pbxuser
@@ -23,6 +28,8 @@
 # XCode 4
 *.xccheckout
 xcuserdata/
+*.xcodeproj
+*.xcconfig
 
 # Eclipse
 .metadata
