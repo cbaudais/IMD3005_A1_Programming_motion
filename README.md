@@ -1,5 +1,5 @@
 ﻿### Open Frameworks Project 
--> Remember to download to your OF apps folder location
+-> Project files must be (re)generated with the <a href="https://openframeworks.cc/learning/01_basics/create_a_new_project/">OF projectGenerator</a> to run.
 
 <code>Christina Baudais
 <br>
@@ -29,4 +29,4 @@ And the trail....I eventually got something close enough, and by making the numb
 https://github.com/cbaudais/IMD3005_A1_Programming_motion/assets/97922886/c38d33ca-b78e-4d99-98b3-9e115e446b82
 
 
-![screenshot](Screen_Shot_2021-09-27_at_23.11.16.png)
+![screenshot](Screen_Shot_2021-09-27.png)
